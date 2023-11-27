@@ -12,8 +12,7 @@ Ouvrir le dossier avec VSCode, et installer les requirements.
 
 # ► Etape 4 : 
 Dans le fichier .env, changer USER_ID par ton user Id (User settings => My account => Les trois petit points à côté du nom du profil => Copy ID)
-![New Project](https://github.com/HeathiamRinny/DrinkReminder/assets/89069242/dcbf998c-30bc-432a-b494-ea722f74ecaa)
-
+![New Project (1)](https://github.com/HeathiamRinny/DrinkReminder/assets/89069242/ff3bd757-7f83-4cb0-8b75-a383d8dc14af)
 
 # ► Etape 5 :
 Changer les chemins dans le .bat par le chemin vers le venv et le chemin jusqu'au script main.py
