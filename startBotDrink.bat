@@ -1,0 +1,1 @@
+C:/Users/pikac/Documents/Projets/Drink/env/Scripts/python.exe C:/Users/pikac/Documents/Projets/Drink/main.py
